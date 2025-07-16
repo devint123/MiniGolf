@@ -15,7 +15,6 @@ The goal of this project was to explore browser-based game development using onl
 
 ## 🗂️ Project Structure
 
-.
 ├── index.html # Main game page
 ├── style.css # Game styling
 ├── script.js # Game logic and interactivity
